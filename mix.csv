@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo,time_signature
+0,Un Año,Un Año,Sebastian Yatra,2019-01-18,164440,74,0.148,0.771,0.382,0.0,0.104,-6.808,0.0514,0.535,94.931,4
+1,What I'm Leaving For - ACM Presents: Our Country,What I'm Leaving For (ACM Presents: Our Country),Lady A,2020-04-06,205562,44,0.447,0.534,0.462,0.0,0.16,-7.151,0.0261,0.416,148.013,4
+2,I'll Be There,I'll Be There,Jess Glynne,2018-05-03,193923,71,0.0228,0.623,0.851,0.0,0.12,-3.111,0.0409,0.4,100.063,4
+3,Stolen Dance,Sadnecessary,Milky Chance,2014-06-20,313684,73,0.427,0.885,0.581,0.000204,0.0759,-8.813,0.0378,0.728,114.016,4
+4,The Bones - with Hozier,The Bones (with Hozier),Maren Morris,2019-10-04,197298,78,0.286,0.561,0.597,0.0,0.0979,-6.0,0.0405,0.355,76.826,4
+5,Bigger Love,Bigger Love,John Legend,2020-04-17,172533,67,0.0229,0.658,0.834,0.000533,0.19,-3.634,0.0468,0.571,102.023,4
+6,For You (Fifty Shades Freed) (& Rita Ora),Fifty Shades Freed (Original Motion Picture Soundtrack),Various Artists,2018-02-09,245453,65,0.0167,0.541,0.787,0.0,0.157,-4.618,0.0331,0.2,113.0,4
+7,Better Together,In Between Dreams,Jack Johnson,2005-01-01,207680,72,0.308,0.868,0.347,2e-05,0.11,-9.529,0.0536,0.659,110.059,4
+8,Last Time I Say Sorry,Last Time I Say Sorry,Kane Brown,2020-03-27,194819,71,0.856,0.263,0.393,0.0,0.0975,-7.783,0.0291,0.205,86.806,4
+9,To Die For,To Die For,Sam Smith,2020-02-14,193795,82,0.832,0.483,0.361,4.66e-06,0.098,-7.889,0.0738,0.307,171.649,4
+10,Don't Start Now,Don't Start Now,Dua Lipa,2019-10-31,183290,93,0.0125,0.794,0.793,0.0,0.0952,-4.521,0.0842,0.677,123.941,4
+11,Yummy,Yummy,Justin Bieber,2020-01-03,210426,85,0.366,0.687,0.514,0.0,0.116,-6.612,0.0897,0.494,145.921,4
+12,"10,000 Hours (with Justin Bieber)","10,000 Hours (with Justin Bieber)",Dan + Shay,2019-10-04,167693,87,0.153,0.654,0.63,0.0,0.111,-4.644,0.0259,0.43,89.991,4
+13,Chandelier,1000 Forms Of Fear (Deluxe Version),Sia,2015-05-04,216120,70,0.0197,0.399,0.787,6.07e-05,0.0685,-2.88,0.0499,0.572,117.089,5
+14,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2019-10-17,209438,94,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,0.513,98.027,4
+15,Count on Me,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,197373,72,0.84,0.577,0.397,0.0,0.0772,-5.98,0.028,0.509,89.044,4
+16,Christmas Tree Farm,Christmas Tree Farm,Taylor Swift,2019-12-06,228026,58,0.06,0.598,0.68,0.0,0.324,-4.505,0.0331,0.437,134.002,4
+17,Love Me Wrong,Love Me Wrong,Allie X,2019-12-06,192906,59,0.576,0.46,0.458,0.0,0.0925,-7.912,0.031,0.104,97.15,4
+18,Show Yourself,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2019-11-15,260906,77,0.724,0.321,0.429,9.1e-05,0.0606,-7.073,0.0302,0.174,123.419,4
+19,Into the Unknown,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2019-11-15,194848,80,0.849,0.323,0.405,0.000544,0.138,-8.533,0.0413,0.274,145.104,5
+20,Best Part (feat. H.E.R.),Freudian,Daniel Caesar,2017-08-25,209831,79,0.808,0.524,0.364,0.0,0.1,-10.209,0.0367,0.436,75.24,4
+21,Good as Hell (feat. Ariana Grande) - Remix,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,2019-10-25,159011,82,0.298,0.668,0.892,0.0,0.735,-3.001,0.0645,0.478,95.927,4
+22,Someone You Loved,Divinely Uninspired To A Hellish Extent,Lewis Capaldi,2019-05-17,182160,92,0.751,0.501,0.405,0.0,0.105,-5.679,0.0319,0.446,109.891,4
+23,"Don't Give Up On Me - (From ""Five Feet Apart"")",Naive,Andy Grammer,2019-07-26,196187,79,0.0875,0.641,0.537,9.05e-06,0.115,-5.452,0.0282,0.0681,112.864,4
+24,One Man Band,Old Dominion,Old Dominion,2019-10-25,186240,72,0.677,0.706,0.358,0.0,0.107,-8.331,0.0347,0.478,75.991,4
+25,Circles,Hollywood's Bleeding,Post Malone,2019-09-06,215280,93,0.192,0.695,0.762,0.00244,0.0863,-3.497,0.0395,0.553,120.042,4
+26,Memories,Memories,Maroon 5,2019-09-20,189486,91,0.837,0.764,0.32,0.0,0.0822,-7.209,0.0546,0.575,91.019,4
+27,wish you were gay,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,221543,82,0.39,0.853,0.351,9.38e-06,0.752,-10.198,0.241,0.282,118.028,4
+28,2002,Speak Your Mind (Deluxe),Anne-Marie,2018-04-27,186986,82,0.0372,0.697,0.683,0.0,0.137,-2.881,0.117,0.603,96.133,4
+29,Cheating on You,Cheating on You,Charlie Puth,2019-10-01,196606,71,0.0131,0.749,0.535,3.65e-05,0.0982,-6.785,0.0336,0.601,123.042,4
+30,I.F.L.Y.,Soul Searching,Bazzi,2019-08-09,165714,83,0.379,0.812,0.519,0.0,0.13,-4.823,0.0385,0.554,104.954,4
+31,Mother,Mother,Charlie Puth,2019-09-12,162864,67,0.375,0.407,0.697,5.07e-06,0.125,-5.612,0.342,0.632,179.681,3
+32,I Warned Myself,I Warned Myself,Charlie Puth,2019-08-21,159782,71,0.562,0.488,0.311,0.000548,0.161,-11.467,0.297,0.579,184.112,4
+33,Find U Again (feat. Camila Cabello),Late Night Feelings,Mark Ronson,2019-06-21,176416,70,0.00548,0.605,0.664,3e-06,0.204,-7.162,0.0316,0.164,103.997,4
+34,Speechless (Full),Aladdin (Original Motion Picture Soundtrack),Various Artists,2019-05-22,208800,74,0.467,0.474,0.489,0.0,0.119,-7.625,0.0342,0.23,124.844,4
+35,Real Life,Real Life,Christopher,2019-07-19,196088,54,0.127,0.766,0.746,0.0,0.124,-5.312,0.0594,0.507,103.074,4
+36,How Do You Sleep?,How Do You Sleep?,Sam Smith,2019-07-19,202204,84,0.153,0.477,0.682,0.0,0.0763,-4.931,0.0925,0.345,110.567,5
+37,Chlorine,Trench,Twenty One Pilots,2018-10-05,324466,78,0.0735,0.609,0.674,0.06,0.345,-7.388,0.0548,0.315,90.009,4
+38,Beautiful People (feat. Khalid),Beautiful People (feat. Khalid),Ed Sheeran,2019-06-28,197866,84,0.124,0.64,0.648,0.0,0.0802,-8.113,0.187,0.548,92.977,4
+39,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,2019-04-25,163804,81,0.179,0.661,0.723,1.23e-05,0.14,-6.976,0.0566,0.316,113.778,4
+40,Paradise,Soul Searching,Bazzi,2019-08-09,169038,81,0.0828,0.844,0.644,0.0,0.113,-6.273,0.0479,0.591,122.061,4
+41,Señorita,Señorita,Shawn Mendes,2019-06-21,190960,88,0.037,0.759,0.54,0.0,0.0945,-6.039,0.0287,0.75,116.947,4
+42,Never Really Over,Never Really Over,Katy Perry,2019-05-31,223523,84,0.194,0.77,0.882,0.0,0.316,-4.792,0.0602,0.385,99.991,4
+43,Talk,Talk,Khalid,2019-02-07,197487,76,0.0501,0.9,0.4,0.0,0.0876,-8.443,0.124,0.338,136.001,4
+44,Who Do You Love,World War Joy,The Chainsmokers,2019-12-06,226733,79,0.0101,0.51,0.846,0.0,0.208,-4.595,0.0461,0.475,139.927,4
+45,As You Are (feat. Shy Carter),Nine Track Mind,Charlie Puth,2016-01-29,235920,38,0.361,0.819,0.523,0.0,0.0716,-6.202,0.0449,0.699,113.952,4
+46,Left Right Left,Nine Track Mind,Charlie Puth,2016-01-29,206466,39,0.21,0.698,0.712,0.0,0.0602,-3.634,0.0321,0.486,99.952,4
+47,I Don't Care (with Justin Bieber),I Don't Care (with Justin Bieber),Ed Sheeran,2019-05-10,219946,85,0.0912,0.798,0.675,0.0,0.0894,-5.041,0.0442,0.842,101.956,4
+48,Does It Feel,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,218666,45,0.177,0.61,0.86,0.0,0.155,-4.6,0.127,0.549,98.995,4
+49,If I Can't Have You,If I Can't Have You,Shawn Mendes,2019-05-03,190800,82,0.524,0.692,0.809,0.0,0.147,-4.198,0.0602,0.864,123.911,4
+50,ME! (feat. Brendon Urie of Panic! At The Disco),Lover,Taylor Swift,2019-08-23,193000,83,0.033,0.61,0.83,0.0,0.118,-4.105,0.0571,0.728,182.162,4
+51,Rewrite The Stars,The Greatest Showman (Original Motion Picture Soundtrack),Various Artists,2017-12-08,217440,76,0.0716,0.684,0.619,0.0,0.122,-7.005,0.0386,0.284,125.046,4
+52,Lemonade - Ukulele Version,For More Than a Feeling,Jeremy Passion,2011-12-13,181504,66,0.868,0.546,0.221,0.0,0.0994,-8.915,0.063,0.593,128.144,4
+53,I Like Me Better,I met you when I was 18. (the playlist),Lauv,2018-05-31,197436,85,0.535,0.752,0.505,2.55e-06,0.104,-7.621,0.253,0.419,91.97,4
+54,Young Dumb & Broke,American Teen,Khalid,2017-04-27,202546,82,0.199,0.798,0.539,1.66e-05,0.165,-6.351,0.0421,0.394,136.949,4
+55,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),benny blanco,2018-07-12,173799,81,0.555,0.56,0.68,0.0,0.116,-7.648,0.321,0.319,89.391,4
+56,On My Way,On My Way,Alan Walker,2019-03-21,193797,79,0.0209,0.509,0.689,0.0,0.301,-4.929,0.102,0.297,170.087,4
+57,Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,85,0.0427,0.842,0.734,0.0,0.106,-5.065,0.0588,0.952,137.958,4
+58,Rise,Rise,Jonas Blue,2018-05-25,194407,75,0.323,0.69,0.784,0.0,0.203,-4.653,0.032,0.669,106.066,4
+59,Thunder / Young Dumb & Broke (with Khalid) - Medley,Thunder / Young Dumb & Broke (with Khalid) [Medley],Imagine Dragons,2017-12-20,251283,65,0.101,0.439,0.681,0.000232,0.395,-5.516,0.15,0.3,168.082,4
+60,Shallow,A Star Is Born Soundtrack,Lady Gaga,2018-10-05,215733,86,0.371,0.572,0.385,0.0,0.231,-6.362,0.0308,0.323,95.799,4
+61,comethru,"summer,",Jeremy Zucker,2018-09-28,181613,79,0.607,0.795,0.178,0.0,0.623,-11.991,0.0574,0.608,93.982,4
+62,You Say,Look Up Child,Lauren Daigle,2018-09-07,274693,78,0.682,0.486,0.632,0.0,0.0869,-6.89,0.0344,0.0791,147.892,4
+63,Rainbow,Golden Hour,Kacey Musgraves,2018-03-30,214293,73,0.88,0.581,0.197,0.0,0.107,-7.697,0.0329,0.349,130.367,4
+64,Hard Place,Hard Place,H.E.R.,2018-11-02,271733,67,0.179,0.614,0.719,1.72e-05,0.163,-4.694,0.0955,0.34,160.075,4
+65,YOUTH,Blue Neighbourhood (Deluxe),Troye Sivan,2015-12-04,185194,66,0.0625,0.628,0.737,0.0,0.0777,-4.437,0.041,0.592,91.507,4
+66,Sunflower - Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,2018-12-14,158040,86,0.556,0.76,0.479,0.0,0.0703,-5.574,0.0466,0.913,89.911,4
+67,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),Sam Smith,2019-01-11,171029,85,0.45,0.741,0.52,1.97e-06,0.222,-7.513,0.0656,0.347,102.998,4
+68,"Fire On Fire - From ""Watership Down""","Fire On Fire (From ""Watership Down"")",Sam Smith,2018-12-21,246735,79,0.476,0.584,0.407,0.0,0.18,-7.356,0.046,0.341,115.124,4
+69,Scared to Be Lonely,Scared to Be Lonely,Martin Garrix,2017-01-27,220883,80,0.0895,0.584,0.54,0.0,0.261,-7.786,0.0576,0.195,137.972,4
+70,Everything I Need,Aquaman (Original Motion Picture Soundtrack) [Deluxe Edition],Rupert Gregson-Williams,2019-07-19,200563,63,0.874,0.531,0.224,0.0,0.111,-10.878,0.0293,0.276,74.98,4
+71,Lost In Japan,Shawn Mendes,Shawn Mendes,2018-05-25,201200,76,0.255,0.713,0.738,0.0,0.106,-6.784,0.374,0.425,105.027,4
+72,High Hopes,Pray for the Wicked,Panic! At The Disco,2018-06-22,190946,84,0.193,0.579,0.904,0.0,0.064,-2.729,0.0618,0.681,82.014,4
+73,Without Me,Without Me,Halsey,2018-10-04,201660,84,0.297,0.752,0.488,9.11e-06,0.0936,-7.05,0.0705,0.533,136.041,4
+74,Love Someone,Love Someone,Lukas Graham,2018-09-07,205463,75,0.161,0.55,0.415,0.0,0.108,-6.557,0.052,0.274,172.065,4
+75,Beautiful Now,True Colors,Zedd,2015-05-18,218293,70,0.0079,0.628,0.833,1.48e-05,0.074,-4.126,0.0282,0.56,128.003,4
+76,Vincent,American Pie,Don McLean,1971,243493,70,0.908,0.419,0.085,5.33e-06,0.34,-19.387,0.0362,0.458,91.509,3
+77,"Let Me Go (with Alesso, Florida Georgia Line & watt)","Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,2017-09-08,174800,80,0.0337,0.664,0.708,0.0,0.0841,-4.154,0.0474,0.742,103.07,4
+78,Kiss and Make Up,Dua Lipa (Complete Edition),Dua Lipa,2018-10-19,189173,77,0.0658,0.678,0.729,0.0,0.303,-4.188,0.137,0.643,99.895,4
+79,Waiting For Tomorrow (feat. Mike Shinoda),BYLAW EP,Martin Garrix,2018-10-19,247504,57,0.00731,0.507,0.887,0.0,0.562,-4.084,0.141,0.336,128.015,4
+80,broken,finding it hard to smile,lovelytheband,2018-08-03,204878,74,0.00175,0.666,0.728,4.26e-06,0.0429,-5.808,0.0419,0.51,122.996,4
+81,Youngblood,Youngblood (Deluxe),5 Seconds of Summer,2018-06-15,203417,83,0.0169,0.596,0.854,0.0,0.124,-5.114,0.463,0.152,120.274,4
+82,Happier,Happier,Marshmello,2018-08-17,214289,86,0.191,0.687,0.792,0.0,0.167,-2.749,0.0452,0.671,100.015,4
+83,Girls Like You,Red Pill Blues (Deluxe),Maroon 5,2018-06-15,215229,64,0.558,0.611,0.462,1.01e-06,0.131,-7.054,0.0646,0.377,59.635,4
+84,Never Be the Same,Camila,Camila Cabello,2018-01-12,226973,73,0.181,0.637,0.713,0.000637,0.137,-4.333,0.0747,0.243,129.923,4
+85,"Audio (feat. Sia, Diplo, and Labrinth)","LABRINTH, SIA & DIPLO PRESENT... LSD",Sia,2019-04-12,204093,70,0.209,0.568,0.701,1.06e-06,0.0769,-4.566,0.0426,0.353,89.969,4
+86,Head Above Water,Head Above Water,Avril Lavigne,2019-02-15,220850,71,0.0112,0.578,0.694,0.0,0.102,-5.351,0.0706,0.268,129.921,4
+87,Better Now,beerbongs & bentleys,Post Malone,2018-04-27,231266,85,0.331,0.68,0.578,0.0,0.135,-5.804,0.04,0.341,145.038,4
+88,Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,2008-05-12,191360,76,0.296,0.623,0.417,0.0,0.135,-8.699,0.0354,0.721,130.032,4
+89,Lay Me Down,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,219535,76,0.919,0.468,0.19,0.0,0.107,-11.138,0.0373,0.326,125.319,4
+90,Latch,Settle (Deluxe),Disclosure,2014-01-01,255866,69,0.0178,0.729,0.735,0.000193,0.089,-5.455,0.0919,0.544,121.986,4
+91,Treat You Better,Illuminate,Shawn Mendes,2017-04-20,187973,82,0.106,0.444,0.819,0.0,0.107,-4.078,0.341,0.747,82.695,4
+92,TREAT MYSELF,TREAT MYSELF,Meghan Trainor,2018-07-20,173766,49,0.00284,0.689,0.684,0.0,0.758,-4.561,0.0463,0.692,107.989,4
+93,High On Life (feat. Bonn),High On Life (feat. Bonn),Martin Garrix,2018-07-29,230761,76,0.0129,0.414,0.486,0.0,0.111,-6.431,0.0311,0.368,128.038,4
+94,Promises (with Sam Smith),Promises (with Sam Smith),Calvin Harris,2018-08-17,213309,81,0.0119,0.781,0.768,4.91e-06,0.325,-5.991,0.0394,0.486,123.07,4
+95,Slow Hands,Flicker (Deluxe),Niall Horan,2017-10-20,188174,76,0.011,0.735,0.425,0.0,0.055,-6.648,0.0466,0.848,85.894,4
+96,Slow,First Time - EP,Liam Payne,2018-08-24,209338,49,0.158,0.641,0.644,0.0,0.127,-5.41,0.0428,0.369,147.035,4
+97,Everybody Hates Me,Sick Boy,The Chainsmokers,2018-12-14,223466,64,0.00703,0.475,0.752,0.0,0.406,-6.596,0.0467,0.515,154.957,4
+98,Side Effects,Sick Boy,The Chainsmokers,2018-12-14,172746,65,0.00217,0.669,0.711,0.0,0.466,-6.758,0.033,0.544,110.01,4
+99,2U,2U,David Guetta,2017-06-09,194906,64,0.225,0.551,0.651,0.0,0.224,-5.828,0.0594,0.562,144.875,4

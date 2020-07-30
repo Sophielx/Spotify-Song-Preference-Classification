@@ -1,0 +1,54 @@
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,speechiness,valence,tempo,time_signature
+0,Break Away,[Vol.56] You Hee yul's Sketchbook : 33th Voice 'Sketchbook X KIM JAE HWAN',KIM JAE HWAN,2020-05-23,286853,30,0.737,0.503,0.611,0.0,0.155,0.0409,0.378,169.987,4
+1,COLD (Feat. PENOMECO),X by X [ Deficiency ],MC MONG,2020-04-10,235680,36,0.328,0.708,0.802,0.0,0.215,0.0345,0.24,100.08,4
+2,Someday,"Crash Landing on You (Original Television Soundtrack), Pt. 5",KIM JAE HWAN,2020-01-19,258533,62,0.64,0.41,0.561,0.0,0.145,0.0318,0.354,137.243,4
+3,Begin Again,Another,KIM JAE HWAN,2019-05-20,233400,47,0.468,0.535,0.675,0.0,0.141,0.0381,0.461,139.632,4
+4,The Time I Need,MOMENT,KIM JAE HWAN,2019-12-12,208000,41,0.792,0.865,0.487,0.0,0.0833,0.0427,0.525,104.974,3
+5,Goodbye,Goodbye,KIM JAE HWAN,2020-02-02,253626,41,0.538,0.454,0.417,0.0,0.101,0.034,0.219,125.85,4
+6,After Party,MOMENT,KIM JAE HWAN,2019-12-12,229373,34,0.341,0.734,0.562,0.0,0.218,0.0456,0.616,97.137,4
+7,NUNA,MOMENT,KIM JAE HWAN,2019-12-12,177373,37,0.329,0.889,0.619,0.0,0.21,0.0431,0.964,110.003,4
+8,Who Am I,MOMENT,KIM JAE HWAN,2019-12-12,206560,35,0.316,0.583,0.639,0.0,0.13,0.0314,0.514,92.08,4
+9,Paradise,MOMENT,KIM JAE HWAN,2019-12-12,210240,38,0.506,0.694,0.542,0.0,0.136,0.0437,0.858,94.02,4
+10,Zzz,MOMENT,KIM JAE HWAN,2019-12-12,194120,34,0.258,0.799,0.581,0.0,0.0872,0.0671,0.918,139.915,4
+11,If I was,VAGABOND (Original Television Soundtrack) Pt.9,KIM JAE HWAN,2019-11-23,313160,43,0.655,0.356,0.444,0.0,0.0839,0.0342,0.275,130.495,4
+12,Vacance in September,Pocket List 8/12,KIM JAE HWAN,2019-08-26,207653,38,0.393,0.519,0.557,0.0,0.248,0.0589,0.345,73.895,4
+13,Black Sky,Chief of Staff : People who Make the World Pt. 2 (Original Television Soundtrack),KIM JAE HWAN,2019-06-21,210373,28,0.405,0.38,0.559,0.0,0.125,0.0358,0.166,139.538,4
+14,Love you still,Another,KIM JAE HWAN,2019-05-20,227533,37,0.632,0.6,0.39,0.0,0.0844,0.0267,0.383,89.958,3
+15,My Star,Another,KIM JAE HWAN,2019-05-20,209332,35,0.235,0.552,0.658,0.0,0.294,0.055,0.269,75.069,4
+16,Blow Me,Another,KIM JAE HWAN,2019-05-20,198466,33,0.121,0.543,0.614,0.0,0.229,0.0827,0.553,104.762,4
+17,Designer,Another,KIM JAE HWAN,2019-05-20,191693,34,0.0922,0.681,0.868,0.0,0.138,0.0545,0.716,121.014,4
+18,LaLa (Melodrama),Another,KIM JAE HWAN,2019-05-20,186238,30,0.0627,0.733,0.765,0.0,0.283,0.069,0.793,105.056,4
+19,To Die For,To Die For,Sam Smith,2020-02-14,193795,82,0.832,0.483,0.361,4.66e-06,0.098,0.0738,0.307,171.649,4
+20,How Do You Sleep?,How Do You Sleep?,Sam Smith,2019-07-19,202204,84,0.153,0.477,0.682,0.0,0.0763,0.0925,0.345,110.567,5
+21,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),Sam Smith,2019-01-11,171029,85,0.45,0.741,0.52,1.97e-06,0.222,0.0656,0.347,102.998,4
+22,Stay With Me,In The Lonely Hour,Sam Smith,2014-05-26,172723,82,0.588,0.418,0.42,6.39e-05,0.11,0.0414,0.184,84.094,4
+23,Promises (with Sam Smith),Promises (with Sam Smith),Calvin Harris,2018-08-17,213309,81,0.0119,0.781,0.768,4.91e-06,0.325,0.0394,0.486,123.07,4
+24,I'm Not The Only One,In The Lonely Hour,Sam Smith,2014-05-26,239316,82,0.529,0.677,0.485,2.04e-05,0.0766,0.0361,0.493,82.001,4
+25,Too Good At Goodbyes,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,201000,75,0.64,0.681,0.372,0.0,0.169,0.0432,0.476,91.873,4
+26,"Fire On Fire - From ""Watership Down""","Fire On Fire (From ""Watership Down"")",Sam Smith,2018-12-21,246735,79,0.476,0.584,0.407,0.0,0.18,0.046,0.341,115.124,4
+27,Lay Me Down,In The Lonely Hour (Drowning Shadows Edition),Sam Smith,2015-11-06,219535,76,0.919,0.468,0.19,0.0,0.107,0.0373,0.326,125.319,4
+28,Pray,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,221595,63,0.282,0.535,0.382,1.14e-05,0.0865,0.0426,0.147,87.801,3
+29,The Thrill Of It All,The Thrill Of It All (Special Edition),Sam Smith,2017-11-03,208903,54,0.81,0.496,0.279,6.82e-05,0.11,0.052,0.103,127.053,4
+30,Attention,Voicenotes,Charlie Puth,2018-05-11,208786,82,0.109,0.775,0.613,2.33e-05,0.134,0.0542,0.797,100.066,4
+31,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),Wiz Khalifa,2015,229525,81,0.369,0.689,0.481,1.03e-06,0.0649,0.0815,0.283,80.025,4
+32,We Don't Talk Anymore (feat. Selena Gomez),Nine Track Mind,Charlie Puth,2016-01-29,217706,70,0.621,0.728,0.563,0.0,0.179,0.134,0.352,100.017,4
+33,How Long,Voicenotes,Charlie Puth,2018-05-11,200853,73,0.211,0.845,0.561,3.49e-06,0.0383,0.0778,0.811,109.974,4
+34,I Warned Myself,I Warned Myself,Charlie Puth,2019-08-21,159782,71,0.562,0.488,0.311,0.000548,0.161,0.297,0.579,184.112,4
+35,Cheating on You,Cheating on You,Charlie Puth,2019-10-01,196606,71,0.0131,0.749,0.535,3.65e-05,0.0982,0.0336,0.601,123.042,4
+36,One Call Away,Nine Track Mind,Charlie Puth,2016-01-29,194453,67,0.403,0.667,0.613,0.0,0.115,0.0344,0.47,91.024,4
+37,Marvin Gaye (feat. Meghan Trainor),Nine Track Mind,Charlie Puth,2016-01-29,190453,54,0.417,0.795,0.616,0.0,0.349,0.06,0.815,110.015,4
+38,Mother,Mother,Charlie Puth,2019-09-12,162864,67,0.375,0.407,0.697,5.07e-06,0.125,0.342,0.632,179.681,3
+39,Done for Me (feat. Kehlani),Voicenotes,Charlie Puth,2018-05-11,180493,69,0.193,0.856,0.632,0.0,0.0688,0.074,0.697,112.009,4
+40,Patient,Voicenotes,Charlie Puth,2018-05-11,190533,64,0.752,0.675,0.604,0.0,0.111,0.193,0.456,168.034,4
+41,If You Leave Me Now (feat. Boyz II Men),Voicenotes,Charlie Puth,2018-05-11,243160,58,0.909,0.362,0.268,0.0,0.15,0.0399,0.394,81.912,4
+42,BOY,Voicenotes,Charlie Puth,2018-05-11,263413,59,0.149,0.725,0.77,2.17e-05,0.0641,0.0539,0.647,93.009,4
+43,The Way I Am,Voicenotes,Charlie Puth,2018-05-11,186080,66,0.314,0.755,0.769,2.38e-06,0.0628,0.186,0.642,114.966,4
+44,LA Girls,Voicenotes,Charlie Puth,2018-05-11,197106,58,0.359,0.869,0.642,1.42e-06,0.0694,0.0367,0.917,99.992,4
+45,Dangerously,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,199133,38,0.364,0.696,0.517,0.0,0.197,0.0366,0.23,112.291,3
+46,Up All Night,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,190106,32,0.551,0.647,0.648,0.0,0.192,0.0314,0.474,81.892,4
+47,Left Right Left,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,206466,32,0.21,0.698,0.712,0.0,0.0602,0.0321,0.486,99.952,4
+48,Suffer,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,210680,35,0.75,0.58,0.443,0.0,0.0742,0.0498,0.576,175.938,3
+49,As You Are (feat. Shy Carter),Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,235920,31,0.361,0.819,0.523,0.0,0.0716,0.0449,0.699,113.952,4
+50,Some Type of Love,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,187906,33,0.392,0.702,0.595,0.0,0.0753,0.0912,0.366,90.497,4
+51,River,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,191360,45,0.838,0.775,0.329,0.0,0.108,0.034,0.252,100.034,4
+52,Does It Feel,Nine Track Mind (Deluxe Edition),Charlie Puth,2016-11-11,218666,45,0.177,0.61,0.86,0.0,0.155,0.127,0.549,98.995,4

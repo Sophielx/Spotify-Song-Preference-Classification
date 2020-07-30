@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,valence,tempo,time_signature
+0,Better Together,In Between Dreams,Jack Johnson,2005-01-01,207680,72,0.868,0.308,0.347,2e-05,0.11,-9.529,0.0536,0.659,110.059,4
+1,Do You Remember,In Between Dreams,Jack Johnson,2005-01-01,144013,61,0.598,0.762,0.289,8.17e-05,0.262,-11.405,0.0334,0.714,92.035,4
+2,I Got You,From Here To Now To You,Jack Johnson,2013-01-01,179346,64,0.899,0.61,0.399,1.52e-05,0.0923,-6.553,0.038,0.544,98.067,4
+3,Over the Rainbow,Alone In Iz World,Israel Kamakawiwo'ole,2001-09-25,211933,71,0.671,0.912,0.153,5.53e-05,0.0771,-13.569,0.0404,0.658,85.6,4
+4,Crush,Crush,Tessa Violet,2018-06-15,216266,66,0.91,0.0302,0.401,0.000159,0.0801,-9.552,0.0855,0.824,135.994,4
+5,Bad Ideas,Bad Ideas,Tessa Violet,2018-11-30,179173,48,0.786,0.622,0.523,0.000742,0.0978,-7.583,0.21,0.379,80.042,4
+6,My Jinji,JINJI KIKKO,Sunset Rollercoaster,2016-03-01,400560,1,0.389,0.534,0.597,0.406,0.144,-8.436,0.0308,0.506,143.943,4
+7,I Know You Know I Love You,BOSSA NOVA,Sunset Rollercoaster,2011-09-22,120693,0,0.764,0.816,0.186,0.0223,0.113,-14.824,0.0799,0.626,143.94,4
+8,What Do I Know?,÷ (Deluxe),Ed Sheeran,2017-03-03,237333,70,0.838,0.251,0.492,0.0,0.262,-5.69,0.038,0.895,115.092,4
+9,New Light,New Light,John Mayer,2018-05-10,216014,79,0.828,0.325,0.689,0.0384,0.0808,-7.878,0.0326,0.853,123.931,4
+10,You're Gonna Live Forever in Me,The Search for Everything,John Mayer,2017-04-14,190013,64,0.538,0.983,0.131,0.00522,0.156,-14.104,0.0316,0.32,136.149,4
+11,Fix You,X&Y,Coldplay,2005-06-07,295533,81,0.209,0.164,0.417,0.00196,0.113,-8.74,0.0338,0.124,138.178,4
+12,Eugene,Carrie & Lowell,Sufjan Stevens,2015-03-31,146893,54,0.555,0.973,0.12,0.303,0.285,-24.043,0.0433,0.672,84.293,4
+13,Summer Salt,Going Native,Summer Salt,2016-01-18,152921,41,0.485,0.2,0.629,0.000897,0.0968,-5.904,0.0378,0.502,132.177,4
+14,Don't You Worry About Me,Love & The City 2,Various Artists,2018-01-26,172444,2,0.552,0.444,0.668,2.15e-05,0.129,-4.541,0.0521,0.674,135.003,4
+15,Hey Jude,Yesterday,Imaginary Future,2017-03-16,211734,44,0.501,0.941,0.104,1.05e-06,0.121,-17.002,0.0388,0.316,146.58,4
+16,Let It Be Me,Flipped (Original Motion Picture Soundtrack),Various Artists,2010-08-03,149253,0,0.318,0.771,0.241,0.00314,0.128,-13.319,0.0289,0.318,144.882,4
+17,What's Your Name,Flipped (Original Motion Picture Soundtrack),Various Artists,2010-08-03,143746,19,0.511,0.103,0.448,0.0,0.0895,-8.15,0.0334,0.542,201.056,3
+18,"Oh, Pretty Woman","Oh, Pretty Woman",Roy Orbison,1962,178933,73,0.619,0.715,0.603,0.0,0.0721,-9.481,0.0342,0.958,127.432,4
+19,Santa Baby,The Christmas EP,Daniela Andrade,2013-12-04,173153,28,0.627,0.769,0.233,0.0,0.123,-10.455,0.0499,0.28,95.161,4
+20,i'm so tired...,i'm so tired...,Lauv,2019-01-24,162582,50,0.599,0.176,0.733,0.0,0.242,-7.058,0.203,0.534,102.211,4
+21,I Like Me Better,I met you when I was 18. (the playlist),Lauv,2018-05-31,197436,85,0.752,0.535,0.505,2.55e-06,0.104,-7.621,0.253,0.419,91.97,4
+22,There's No Way (feat. Julia Michaels),There's No Way (feat. Julia Michaels),Lauv,2018-09-27,174860,46,0.755,0.49,0.625,0.0,0.157,-7.114,0.0896,0.374,147.02,4
+23,Chocolate - Acoustic Version / Bonus Track,The 1975,The 1975,2013-01-01,238003,12,0.365,0.734,0.267,0.0,0.15,-13.443,0.0481,0.386,73.364,4
+24,From the Dining Table,Harry Styles,Harry Styles,2017-05-12,211960,73,0.671,0.804,0.156,0.0518,0.113,-16.288,0.0371,0.201,94.08,4
+25,Chasing Cars,Chasing Cars,Sleeping At Last,2015-04-23,240426,59,0.478,0.975,0.181,3.37e-06,0.0795,-8.731,0.0327,0.279,108.346,4
+26,Only Angel,Harry Styles,Harry Styles,2017-05-12,291080,68,0.554,0.287,0.842,0.0,0.106,-4.113,0.0397,0.348,114.036,4
+27,Love Her,Happiness Begins,Jonas Brothers,2019-06-07,193133,64,0.74,0.178,0.337,0.0,0.0944,-6.039,0.0282,0.56,103.002,4
+28,Youngblood - Acoustic,Youngblood (Acoustic),5 Seconds of Summer,2018-06-01,220995,60,0.607,0.127,0.589,0.0,0.182,-6.068,0.0274,0.399,114.946,4
+29,A Little More,A Little More,Alessia Cara,2018-07-11,144720,54,0.376,0.797,0.211,0.0,0.196,-11.665,0.0364,0.228,94.7,3
+30,Be My Mistake,A Brief Inquiry Into Online Relationships,The 1975,2018-11-30,256688,69,0.572,0.835,0.155,0.000137,0.0906,-14.405,0.0344,0.0949,109.923,3
+31,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),Bazzi,2018-08-02,180000,79,0.638,0.346,0.717,0.0,0.105,-4.722,0.0337,0.249,100.027,4
+32,Fallin' All In You,Shawn Mendes,Shawn Mendes,2018-05-25,235746,76,0.853,0.405,0.476,0.0,0.111,-6.696,0.0361,0.796,92.038,4
+33,Night Changes,FOUR (Deluxe),One Direction,2014-11-17,226600,77,0.672,0.859,0.52,0.0,0.115,-7.747,0.0353,0.37,120.001,4
+34,Ho Hey,The Lumineers,The Lumineers,2012-04-03,163133,70,0.685,0.794,0.466,2.06e-06,0.0915,-9.074,0.0304,0.353,79.936,4
+35,Your Body Is a Wonderland,Room For Squares,John Mayer,2001-08-16,249626,77,0.647,0.0206,0.729,0.0489,0.134,-6.251,0.0236,0.687,94.01,4
+36,Shut Up and Dance - Live Acoustic - 2015,Shut Up And Dance (Acoustic),WALK THE MOON,2015-09-04,193986,63,0.82,0.151,0.615,0.0,0.204,-4.548,0.0466,0.768,129.874,4
+37,Fancy,The New Classic (Deluxe Version),Iggy Azalea,2014-01-01,199938,68,0.912,0.0904,0.716,0.0,0.0491,-4.141,0.0697,0.377,94.981,4
+38,Summer,Motion,Calvin Harris,2014-10-31,222533,80,0.596,0.0211,0.856,0.0178,0.141,-3.556,0.0346,0.743,127.949,4
+39,Cake By The Ocean,DNCE,DNCE,2016-11-18,219146,79,0.774,0.152,0.753,0.0,0.0371,-5.446,0.0517,0.896,119.002,4
+40,I'm the One - Acoustic,I'm the One (Acoustic),Sunset & Highland,2017-05-19,233488,59,0.601,0.835,0.372,0.0,0.129,-6.148,0.0292,0.444,146.086,4
+41,One And Only,Poetry & Airplanes,Teitur,2003-01-01,171973,37,0.371,0.875,0.334,0.000255,0.114,-11.127,0.0296,0.308,68.721,4
+42,Free,Donavon Frankenreiter,Donavon Frankenreiter,2004-01-01,148600,64,0.793,0.112,0.464,0.0,0.109,-6.624,0.0386,0.851,124.994,4
+43,Sunflower - Spider-Man: Into the Spider-Verse,Sunflower (Spider-Man: Into the Spider-Verse),Post Malone,2018-10-18,158053,8,0.753,0.551,0.498,0.0,0.0706,-5.61,0.0504,0.927,89.95,4
+44,200%,PLAY,AKMU,2014-04-07,193321,56,0.853,0.379,0.638,0.0,0.27,-4.911,0.0536,0.872,102.06,4
+45,Rainbow Connection,"Covers, Vol. 2",Sleeping At Last,2016-11-04,192571,57,0.513,0.966,0.183,0.0,0.327,-10.249,0.0407,0.266,107.18,3
+46,So Am I,So Am I,Ava Max,2019-03-07,183026,80,0.682,0.0737,0.656,0.0,0.353,-4.67,0.0435,0.607,130.089,4
+47,Sweet Caroline,Sweet Caroline,Neil Diamond,1969,203573,5,0.529,0.611,0.127,0.000109,0.237,-16.066,0.0274,0.578,63.05,4
+48,Fresh Eyes,The Good Parts,Andy Grammer,2017-12-01,198001,68,0.828,0.548,0.56,3.66e-05,0.15,-6.685,0.0327,0.872,122.054,4
+49,A Friend Like You,Captain Underpants: The First Epic Movie (Original Motion Picture Soundtrack),Various Artists,2017-06-02,220108,51,0.742,0.302,0.75,3.09e-06,0.149,-5.727,0.21,0.821,89.493,4
+50,Crazy Beautiful,Crazy Beautiful EP,Andy Grammer,2016-11-18,205053,59,0.616,0.0617,0.822,0.0,0.0547,-3.808,0.0418,0.671,100.522,4
+51,That's What's Up,That's What's Up,Lennon & Maisy,2014-03-03,195083,46,0.453,0.832,0.274,0.0,0.18,-10.572,0.0406,0.49,203.478,4
+52,Without Me,Without Me,Postcards & Polaroids,2018-12-30,130222,56,0.796,0.679,0.159,0.0,0.157,-13.037,0.0717,0.604,134.872,3
+53,High Hopes,High Hopes,The Mayries,2019-02-08,216115,62,0.623,0.864,0.236,0.0,0.148,-12.303,0.0368,0.349,109.708,4
+54,Let's Fall in Love for the Night,Let’s Fall In Love For The Night,FINNEAS,2018-10-19,190348,82,0.737,0.802,0.408,0.0,0.171,-7.941,0.104,0.374,127.921,4
+55,You,You,A Great Big World,2018-08-17,218133,56,0.505,0.885,0.31,0.00359,0.0996,-10.423,0.03,0.34,82.591,4
+56,Chivalry Is Dead (Acoustic Bonus Track),Chivalry Is Dead,Trevor Wesley,2016-11-04,193956,49,0.727,0.879,0.247,0.0,0.209,-10.249,0.229,0.556,117.122,4
+57,Rendezvous,Rendezvous,DEVIN K,2012,221701,16,0.621,0.45,0.623,0.0,0.0641,-5.887,0.0478,0.794,166.901,4
+58,I Like (the idea of) You,I Like (the idea of) You,Tessa Violet,2019-05-03,168480,37,0.826,0.0863,0.642,9.86e-05,0.128,-5.364,0.0324,0.638,120.975,4
+59,Build Me a Girl,Andy Grammer,Andy Grammer,2011-06-14,191680,41,0.7,0.355,0.645,0.0,0.103,-6.841,0.0524,0.365,94.96,4
+60,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,2019-04-25,163804,81,0.661,0.179,0.723,1.23e-05,0.14,-6.976,0.0566,0.316,113.778,4
+61,I Do,All Of You,Colbie Caillat,2011-01-01,173360,61,0.655,0.22,0.877,0.0,0.0785,-5.656,0.0329,0.958,144.877,4
+62,Streetlights on Mars (Stripped),Streetlights on Mars,Jackson Penn,2018-02-23,205494,43,0.754,0.888,0.141,0.0,0.0951,-14.232,0.0366,0.616,94.946,4
+63,2002,Speak Your Mind (Deluxe),Anne-Marie,2018-04-27,186986,82,0.697,0.0372,0.683,0.0,0.137,-2.881,0.117,0.603,96.133,4
+64,Best Friend,Best Friend,Rex Orange County,2017-01-25,262231,80,0.575,0.395,0.714,0.0,0.115,-5.247,0.0596,0.32,144.982,4
+65,instagram,instagram,DEAN,2017-12-26,255728,69,0.463,0.196,0.566,0.0,0.284,-6.195,0.145,0.219,93.921,4
+66,Black and White,A Kind of Calm,Will Trotman Band,2016-12-21,273488,37,0.776,0.836,0.405,5.59e-06,0.101,-7.912,0.0286,0.44,107.516,3
+67,How Long Will I Love You,About Time,Various Artists,2013-01-01,166186,40,0.519,0.448,0.528,0.135,0.239,-7.942,0.0298,0.537,122.027,4
+68,Nicholas Sparks,Nicholas Sparks,Kinda Collective,2019-05-26,199810,36,0.697,0.407,0.478,0.0,0.113,-7.879,0.221,0.423,95.016,4
+69,Can I Have the Day With You,Can I Have the Day With You,Sam Ock,2019-02-20,313404,50,0.626,0.852,0.304,0.0182,0.253,-13.512,0.0354,0.149,96.945,3
+70,wish you were gay,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,2019-03-29,221543,82,0.853,0.39,0.351,9.38e-06,0.752,-10.198,0.241,0.282,118.028,4
+71,Friday (feat.Jang Yi-jeong of HISTORY),Modern Times ? Epilogue,IU,2013-12-20,217155,59,0.693,0.56,0.529,0.0,0.111,-4.819,0.0539,0.555,80.026,4
+72,Put Your Records On,Corinne Bailey Rae,Corinne Bailey Rae,2006-01-01,215360,77,0.739,0.167,0.511,1.34e-06,0.133,-7.844,0.0362,0.542,96.038,4
+73,Good as Hell (feat. Ariana Grande) - Remix,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,2019-10-25,159011,82,0.668,0.298,0.892,0.0,0.735,-3.001,0.0645,0.478,95.927,4
+74,Missin' You Like Crazy,Us,Us The Duo,2012-06-15,206146,50,0.742,0.607,0.302,0.0,0.101,-9.596,0.0398,0.438,78.505,4
+75,The Pocket,Andy Grammer,Andy Grammer,2011-06-14,233666,41,0.664,0.0503,0.763,0.0,0.239,-5.084,0.122,0.555,99.966,4
+76,Have Yourself a Merry Little Christmas,The Christmas EP,Daniela Andrade,2013-12-04,113421,31,0.616,0.859,0.226,0.0,0.103,-7.552,0.0407,0.437,95.219,4
+77,Be Alright,Be Alright,Lola Rhodes,2018-09-28,180466,60,0.664,0.856,0.177,0.0,0.136,-13.54,0.0335,0.29,105.008,4
+78,Serendipity,Higher,Albert Posis,2012-11-01,144588,53,0.734,0.173,0.456,0.0,0.111,-6.89,0.0358,0.77,138.007,3
+79,How’d I Ever Think I Loved You,In the Nighttime,David Myles,2013-05-14,203735,4,0.883,0.364,0.527,0.0,0.0881,-5.49,0.0593,0.947,137.002,4
+80,I Still Feel The Same About You,Ella: The Legendary Decca Recordings,Ella Fitzgerald,1995-08-29,198760,31,0.61,0.895,0.117,0.0,0.0959,-14.947,0.0423,0.523,88.459,4
+81,Can't Take My Eyes off You,The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli & The Four Seasons,2003-01-14,203240,69,0.575,0.566,0.764,1.07e-05,0.0692,-7.448,0.0746,0.536,123.821,4
+82,current location,kinda,LANY,2016-06-24,189010,58,0.584,0.523,0.718,0.00186,0.357,-7.154,0.0403,0.173,99.965,4
+83,All Time Low,The Human Condition,Jon Bellion,2016-06-10,217603,72,0.617,0.0584,0.567,0.0,0.0933,-4.188,0.0828,0.505,90.246,4
+84,1000 Songs (4 You (2 Night) ) - Live,Egil Olsen Show,Egil Olsen,2011-10-28,108973,6,0.516,0.948,0.488,0.00278,0.705,-15.958,0.434,0.555,89.789,4
+85,Jambalaya (On The Bayou),Now & Then (Reissue),Carpenters,1973-05-01,222626,48,0.617,0.747,0.457,0.000318,0.0716,-14.187,0.072,0.819,97.698,4
+86,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2019-10-17,209438,94,0.824,0.692,0.588,0.000104,0.149,-6.4,0.0924,0.513,98.027,4
+87,my ted talk,the masquerade,mxmtoon,2019-09-17,152253,46,0.684,0.868,0.271,0.0,0.0994,-9.145,0.0609,0.685,112.748,4
+88,Party In The U.S.A.,The Time Of Our Lives,Miley Cyrus,2009-01-01,202066,74,0.652,0.00112,0.698,0.000115,0.0886,-4.667,0.042,0.47,96.021,4
+89,Ladies,Andy Grammer,Andy Grammer,2011-06-14,212680,33,0.719,0.249,0.721,0.0,0.219,-5.288,0.0552,0.502,102.017,4
+90,Something Just Like This - Acoustic,Something Just Like This,Missy & Blonde,2017-03-17,189793,65,0.608,0.749,0.307,0.000252,0.156,-10.859,0.0285,0.505,99.938,4
+91,Forever,Magazines Or Novels,Andy Grammer,2014-08-05,218831,42,0.709,0.159,0.729,8.17e-05,0.0861,-5.529,0.0403,0.8,95.014,4
+92,Coming Back Again,I Love 1984,Geyster,2003,201426,9,0.609,0.0198,0.923,9.21e-06,0.0978,-3.888,0.0415,0.769,122.029,4
+93,Shallow - Acoustic,he said. she said.,Tyler Ward,2019-05-17,182553,51,0.332,0.825,0.282,0.0,0.104,-7.257,0.044,0.234,187.057,4
+94,Dilemma,Dilemma,Brandon Chase,2018-12-07,247683,59,0.627,0.788,0.246,0.0,0.118,-11.41,0.0342,0.52,141.303,4
+95,I Don't Mind,Homework,Darren Criss,2017-12-15,153426,37,0.436,0.818,0.254,0.0,0.109,-9.552,0.0356,0.332,98.698,4
+96,Business Cycles,Business Cycles,Kid Hastings,2018-11-13,245853,32,0.517,0.843,0.456,0.000228,0.252,-7.888,0.0352,0.0955,81.85,4
+97,Plans,Oh Wonder,Oh Wonder,2015-09-04,235671,50,0.458,0.833,0.298,0.0599,0.0631,-13.191,0.25,0.144,76.575,4
+98,Partners in Crime,Blood Harmony,FINNEAS,2019-10-04,223283,58,0.572,0.804,0.42,0.00063,0.0966,-12.714,0.339,0.436,172.681,3
+99,Falling Slowly,Music From The Motion Picture Once,Glen Hansard,2007-05-22,244133,64,0.34,0.679,0.209,0.000443,0.101,-11.869,0.0279,0.151,137.042,4
